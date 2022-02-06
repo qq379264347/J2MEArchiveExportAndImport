@@ -1,2 +1,4 @@
 # J2MEArchiveExportAndImport
 J2ME平台的存档导出与导入工具，可以方便的导出游软的存档为txt文本，可以二次编辑或跨平台导入。
+J2ME游软jar包安装无需验证签名，所以可以构建同款MIDlet类来继承本MIDlet工具类就可以执行相关存档方法。
+具体使用可以查看J2ME云工具项目J2MECloudTools
